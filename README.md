@@ -1,2 +1,2 @@
 # analytics_utility
-Utility tables for analytics
+Utility dimension tables for analytics
